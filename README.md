@@ -1,4 +1,4 @@
-##Kütüphane Uygulaması - Frontend
+# Kütüphane Uygulaması - Frontend
 Bu proje, Patika+ Frontend Web Developer Programı capstone bitirme projesi kapsamında geliştirilmiş bir Kütüphane Yönetim Uygulamasının frontend kısmını içermektedir. Uygulama, React Router kullanılarak geliştirilmiş ve CRUD işlemleri uygulanabilir hale getirilmiştir.
 
 ##Özellikler
