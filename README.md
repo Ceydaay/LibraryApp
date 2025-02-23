@@ -43,10 +43,6 @@ The backend API can be accessed and tested via **Swagger**. This allows you to i
 The same set of endpoints is available for managing **categories**, **books**, **authors**, and **borrowing**.
 
 
-##  Project Setup
-
-To get the project up and running locally, follow these steps:
-
 ###  Prerequisites
 
 Ensure that you have **Node.js** and **npm** installed on your system.
