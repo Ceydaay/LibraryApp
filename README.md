@@ -1,9 +1,9 @@
 
-##  📝 Project Overview
+##   Project Overview
 
 Welcome to the **Library Management System** project! This project is a **Single Page Application (SPA)** developed using **React** and **React Router**. The application allows users to efficiently manage books, authors, categories, and publishers through a fully functional CRUD (Create, Read, Update, Delete) interface.
 
-###  📄 Key Features
+###   Key Features
 
 This application includes the following pages:
 - **Home Page (Welcome Page)**
@@ -15,7 +15,7 @@ This application includes the following pages:
 
 Each page includes full CRUD operations, allowing users to create, view, edit, and delete entries related to publishers, categories, books, authors, and borrowing.
 
-### 📝 CRUD Operations
+###  CRUD Operations
 
 The application supports the following operations:
 - **Create:** Add new entries for publishers, categories, books, authors, and borrowing records.
@@ -25,7 +25,7 @@ The application supports the following operations:
 
 If a CRUD operation fails, the user will be notified with an appropriate message.
 
-## ⭐ Design
+##  Design
 
 For the design of this application, I used **CSS** to provide a clean, responsive, and user-friendly interface. The layout is simple yet functional, with a focus on usability and accessibility.
 
@@ -50,19 +50,6 @@ To get the project up and running locally, follow these steps:
 ### 🔧 Prerequisites
 
 Ensure that you have **Node.js** and **npm** installed on your system.
-
-### Steps to Run Locally
-
-1. Clone the repository:
-   ```bash
-   git clone <https://github.com/elfdrkn/LibraryApp>
-2. Navigate into the project directory:
-    cd <project-directory>
-3. Install the required dependencies:
-    npm install
-4. Start the development server:
-    npm start
-5. Open your browser and go to http://localhost:3000 to view the app.
 
 ### Backend Integration
 The backend is pre-configured and ready to handle the required CRUD operations. You can interact with the backend using Axios or any other HTTP client of your choice.
