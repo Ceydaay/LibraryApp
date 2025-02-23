@@ -29,7 +29,7 @@ If a CRUD operation fails, the user will be notified with an appropriate message
 
 For the design of this application, I used **CSS** to provide a clean, responsive, and user-friendly interface. The layout is simple yet functional, with a focus on usability and accessibility.
 
-### ⚙ Technologies Used
+###  Technologies Used
 
 This project incorporates the following technologies:
 - **Frontend:** React, React Router
@@ -47,7 +47,7 @@ The same set of endpoints is available for managing **categories**, **books**, *
 
 To get the project up and running locally, follow these steps:
 
-### 🔧 Prerequisites
+###  Prerequisites
 
 Ensure that you have **Node.js** and **npm** installed on your system.
 
