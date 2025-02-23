@@ -40,23 +40,7 @@ This project incorporates the following technologies:
 
 The backend API can be accessed and tested via **Swagger**. This allows you to interact with the API endpoints and perform CRUD operations directly from the documentation interface. You can fetch and manage data from the backend using **Axios**, or any other HTTP client library you prefer.
 
-### API Endpoints
-
-- **GET** `/publishers` - Retrieve the list of publishers.
-- **POST** `/publishers` - Add a new publisher.
-- **PUT** `/publishers/{id}` - Update an existing publisher.
-- **DELETE** `/publishers/{id}` - Delete a publisher.
-
 The same set of endpoints is available for managing **categories**, **books**, **authors**, and **borrowing**.
-
-## 📸 Screenshots
-
-![Home Page](public/1.png)
-![Publisher Page](public/2.png)
-![Categories Page](public/3.png)
-![Authors Page](public/4.png)
-![Books Page](public/5.png)
-![Book Borrowing Page](public/5.png)
 
 
 ## 🚀 Project Setup
