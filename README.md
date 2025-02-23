@@ -29,7 +29,7 @@ If a CRUD operation fails, the user will be notified with an appropriate message
 
 For the design of this application, I used **CSS** to provide a clean, responsive, and user-friendly interface. The layout is simple yet functional, with a focus on usability and accessibility.
 
-### ⚙️ Technologies Used
+### ⚙ Technologies Used
 
 This project incorporates the following technologies:
 - **Frontend:** React, React Router
@@ -43,7 +43,7 @@ The backend API can be accessed and tested via **Swagger**. This allows you to i
 The same set of endpoints is available for managing **categories**, **books**, **authors**, and **borrowing**.
 
 
-## 🚀 Project Setup
+##  Project Setup
 
 To get the project up and running locally, follow these steps:
 
@@ -54,6 +54,8 @@ Ensure that you have **Node.js** and **npm** installed on your system.
 ### Backend Integration
 The backend is pre-configured and ready to handle the required CRUD operations. You can interact with the backend using Axios or any other HTTP client of your choice.
 
+## Live Demo
+You can view the live version of this project by visiting the following link: [Live Demo](https://libraryappmain.netlify.app/)
 
 
 Conclusion
